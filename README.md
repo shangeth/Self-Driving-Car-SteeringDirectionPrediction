@@ -21,8 +21,7 @@ terminal@linux:~$ python model.py
 ---
 ### Model
 
-The model is obtained from the **[Nvidia paper](end-to-end-dl-using-px.pdf)**, built with *Keras*, and have total **154,132 parameters**. The summary of the model is shown as below:
-
+The model is obtained from the **[Nvidia paper](end-to-end-dl-using-px.pdf)**, built with *Keras*, and have total **154,132 parameters**. 
 | Layer (type) | Output Shape | Param # | Connected to |
 | :--- | :--- | ---: | :--- |
 | lambda_1 (Lambda) | (None, 66, 200, 3) | 0 | lambda_input_1[0][0] |
