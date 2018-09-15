@@ -42,6 +42,6 @@ terminal@linux:~$ python detect_lanes_video.py
 
 
 ## Screenshot
-###Autonomous mode 
+### Autonomous mode 
 ![Output](img.png)
 
