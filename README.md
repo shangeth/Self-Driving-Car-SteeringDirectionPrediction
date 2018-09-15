@@ -16,7 +16,7 @@ terminal@linux:~$ python model.py
 ```
 <p> You may need a GPU for this training , it took forever for me to train</p>
 
-<hr>
+
 
 ---
 ### Model
