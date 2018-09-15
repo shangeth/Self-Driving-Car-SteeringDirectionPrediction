@@ -69,11 +69,6 @@ terminal@linux:~$ python drive.py model.h5
 [[Demo]](https://youtu.be/-KjL1NJcgUs)
 
 
-## Run the Code
-
-```console
-terminal@linux:~$ python detect_lanes_video.py
-```
 
 
 
